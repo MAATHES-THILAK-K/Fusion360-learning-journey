@@ -13,8 +13,8 @@ The designs are based on a reference dimension file and uploaded **daily** to im
 ---
 
 ## 📂 Repository Structure
-- `/Parts` → Contains individual Fusion 360 design files (.f3d)  
-- `/STEP` → Exported STEP files (compatible with SolidWorks and other CAD software)  
+- `/Parts` → Contains individual Fusion 360 design files (.f3d).  
+- `/STEP` → Exported STEP files (compatible with SolidWorks and other CAD software).  
 - `/Images` → Preview renders/screenshots for learning reference.  
 
 ---
